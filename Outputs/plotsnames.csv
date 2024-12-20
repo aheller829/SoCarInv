@@ -1,0 +1,832 @@
+SiteID,plots_stms_PlotID,sfs_plots_PlotID
+AR-Chuluut,Hairkhan-Emt namarjaa,"Hairhan, Imt"
+AR-Chuluut,Haluun us-Tsagaan hotol,"Haluun us, Tsagaan hutul"
+AR-Chuluut,Zuun mod-Tsohiot,"Zuun mod, Tsohiot"
+AR-Chuluut,Zuunmod-Narangiin enger,"Zuun mod, Narangiin enger"
+AR-Erdenemandal,Alag uul-Baga bulag,"Alag uul, Baga bulgiin uvuljuu"
+AR-Erdenemandal,Erdene uul-Oldoh zuslan,"Erdene-Uul, Oldoh"
+AR-Erdenemandal,Han ondor-Shanaga havarjaa,"Han undur, Shanaga"
+AR-Erdenemandal,Ider ulaan-Shar enger,"Ider ulaan, Shar enger"
+AR-Erdenemandal,Teel-Gongoriin jalga,"Teel, Gongoriin jalga"
+BU-Dashinchilen,Haraat-Huhiin hooloi2,Huhiin hooloi
+BU-Dashinchilen,Lah-Zaidan5,Zaidan
+BU-Dashinchilen,Suujiin gol-Baruun hajuu1,Baruunhajuu
+BU-Mogod,Bayan-Uul-Uvur bulag4,"Bayan uul, Uvur bulag"
+BU-Mogod,Bayasgalant-Tsohioni ar2,"Bayasgalant, Tsohionii ar"
+BU-Mogod,Erhet-Nomgon1,"Y bag, Nomgon"
+BU-Mogod,Jargalant-Huuvriin ih shand5,"Jargalant, Huurviin eh"
+DG-Delgereh,Aman shand-Nudengiin tolgod,Nudengiin tolgod
+DG-Delgereh,Aman shand-Teegiin tal,Teegiin tal
+DG-Delgereh,Bumbat-Hamriin uul,Hamriin uul
+DG-Delgereh,Bumbat-Murgutsugiin uul,Murugtsugiin uul
+DG-Delgereh,Tsagaan had-Hur,Hur
+DO-Bayandun,Hairhan-Bayanganga,Bayan ganga
+DO-Bayandun,Naran-Biluut,Biluut
+DO-Bayandun,Turgen-Tsagaan nuur,Tsagaan nuur
+DO-Bayandun,Yrgai-Yrgai,Yargai
+DO-Bayan-Uul,Ereen-Uisen,Uisen
+DO-Bayan-Uul,Har chuluut-Har nuur,Har nuur
+DO-Bayan-Uul,Har chuluut-Hust,Hust
+DO-Bayan-Uul,Urtiin adag-Shinest uul,Shinest
+DO-Bayan-Uul,Zayat-Holboo nuur,Holboo
+DO-Chuluunhoroot,Galuut-Galuut nuur,Galuut nuur
+DO-Chuluunhoroot,Tsagaan chuluut-Angirt nuur,Angirt
+DO-Dashbalbar,Chuh-Chuh,Chukh
+DO-Dashbalbar,Harzat-Hoh chuluu,Huh chuluun
+DO-Dashbalbar,Nomint-Delger nuur,Delger nuur
+DO-Dashbalbar,Ulz-Ar nuur,Arnuur
+DO-Matad,Bayanhangai-Har had,Har had
+DO-Matad,Jargalant-Baruun toson,Baruuntoson
+DO-Sergelen,Barchin-Tsagaan ondor,Tsagaan undur durvuljin
+DO-Sergelen,Bayan-Bayantal,Bayantal
+DO-Sergelen,Hurgan-Ar hooloi,Arhooloi
+DO-Sergelen,Ochir hureet-Buhat,Buht
+DO-Tsagaan-Ovoo,Bayangol-Bayangol,TO_Bayangol
+DO-Tsagaan-Ovoo,Elst-Elst,Elst
+DO-Tsagaan-Ovoo,Elst-Elst,Guntsengeleg
+DO-Tsagaan-Ovoo,Guntsengeleg-Guntsengeleg,Guntsengeleg
+DO-Tsagaan-Ovoo,Hureet-Belchir hureet,Belchirhureet
+DO-Tsagaan-Ovoo,Huuvur-Huuvur,Huuvur
+DO-Tsagaan-Ovoo,Zurh-Ulent,Ulunt
+DU-Erdenedalai,Ongot-Ergenegiin govi,Eregneg gobi
+DU-Erdenedalai,Rashaant-Gedreg serven,Gedreg serven
+DU-Erdenedalai,Sangiin dalai-Hadat,Sangiin dalai
+DU-Erdenedalai,Tengeleg-Ulaan hudag,Eregneg gobi
+DU-Erdenedalai,Tsavchir-Galuutain bor ondor,Galuutai bor undur
+GS-Bayantal,Teregtiin tal-Teregtiin tal,Teregtiin tal
+GS-Shiveegobi,Tsoorhoi-Tsoorhoi,Tsoorhoi
+GS-Sumber,Shar had-Shar had,Shar had
+GS-Sumber,Tsagaan tolgoi-Tsagaan tolgoi,Tsagaan tolgoi
+HE-Bayan-Ovoo,Delgerhaan-Hoh-dev,Huh dev
+HE-Bayan-Ovoo,Sumber-Tomstei,Tumstei
+HU-Alag-Erdene,Bayasgalan-Hamriin am,"Tsagaan burgas, Hamariin am"
+HU-Alag-Erdene,Manhan-Manhan,"Janhai, Janhai"
+HU-Alag-Erdene,Manhan-Manhan,"Tsahir, Urhut"
+HU-Alag-Erdene,Manhan-Manhan,"Chuluut, Alag tsar"
+HU-Alag-Erdene,Manhan-Manhan,"Chuluut, Ulaan davaa"
+HU-Alag-Erdene,Manhan-Manhan,"Hushuut, Ulaan mod"
+HU-Alag-Erdene,Manhan-Manhan,"Tsagaan burgas, Hamariin am"
+HU-Alag-Erdene,Manhan-Manhan,"Ujig, Daahi"
+HU-Alag-Erdene,Manhan-Manhan,"Yargis, Chuulganat"
+HU-Alag-Erdene,Manhan-Manhan,"Manhan, Manhan"
+HU-Alag-Erdene,Shuvuut-Erhel,"Janhai, Janhai"
+HU-Alag-Erdene,Shuvuut-Erhel,"Tsahir, Urhut"
+HU-Alag-Erdene,Shuvuut-Erhel,"Chuluut, Alag tsar"
+HU-Alag-Erdene,Shuvuut-Erhel,"Chuluut, Ulaan davaa"
+HU-Alag-Erdene,Shuvuut-Erhel,"Hushuut, Ulaan mod"
+HU-Alag-Erdene,Shuvuut-Erhel,"Tsagaan burgas, Hamariin am"
+HU-Alag-Erdene,Shuvuut-Erhel,"Ujig, Daahi"
+HU-Alag-Erdene,Shuvuut-Erhel,"Yargis, Chuulganat"
+HU-Alag-Erdene,Shuvuut-Erhel,"Manhan, Manhan"
+HU-Alag-Erdene,Ujig-Daih,"Janhai, Janhai"
+HU-Alag-Erdene,Ujig-Daih,"Tsahir, Urhut"
+HU-Alag-Erdene,Ujig-Daih,"Chuluut, Alag tsar"
+HU-Alag-Erdene,Ujig-Daih,"Chuluut, Ulaan davaa"
+HU-Alag-Erdene,Ujig-Daih,"Hushuut, Ulaan mod"
+HU-Alag-Erdene,Ujig-Daih,"Tsagaan burgas, Hamariin am"
+HU-Alag-Erdene,Ujig-Daih,"Ujig, Daahi"
+HU-Alag-Erdene,Ujig-Daih,"Yargis, Chuulganat"
+HU-Alag-Erdene,Ujig-Daih,"Manhan, Manhan"
+HU-Alag-Erdene,Yargis-Tsagaan hamar,"Janhai, Janhai"
+HU-Alag-Erdene,Yargis-Tsagaan hamar,"Tsahir, Urhut"
+HU-Alag-Erdene,Yargis-Tsagaan hamar,"Chuluut, Alag tsar"
+HU-Alag-Erdene,Yargis-Tsagaan hamar,"Chuluut, Ulaan davaa"
+HU-Alag-Erdene,Yargis-Tsagaan hamar,"Hushuut, Ulaan mod"
+HU-Alag-Erdene,Yargis-Tsagaan hamar,"Tsagaan burgas, Hamariin am"
+HU-Alag-Erdene,Yargis-Tsagaan hamar,"Ujig, Daahi"
+HU-Alag-Erdene,Yargis-Tsagaan hamar,"Yargis, Chuulganat"
+HU-Alag-Erdene,Yargis-Tsagaan hamar,"Manhan, Manhan"
+HU-Tosontsengel,Muhar hondii-Muhar hondii,Cleistogenious
+HU-Tosontsengel,Selenge-Hyalganat,Cleistogenious
+HU-Tosontsengel,Suul ulaan-Suul ulaan,Cleistogenious
+HU-Tosontsengel,Teel-Buraagiin denj,Cleistogenious
+HU-Tosontsengel,Tsengel-Argalant,Cleistogenious
+HU-Tsagaan-Uul,Agar-Deed bayan zurh,"Sharga, Grass-forb"
+HU-Tsagaan-Uul,Hujirt-Tsahir,"Sharga, Grass-forb"
+HU-Tsagaan-Uul,Jargalant-Shargiin ovor,"Sharga, Grass-forb"
+HU-Tsagaan-Uul,Ovgod-Ovgodiin bulag,"Sharga, Grass-forb"
+HU-Tsagaan-Uul,Sharga-Bodi,"Sharga, Grass-forb"
+HU-Tsagaan-Uul,Toson-Hoboot,"Sharga, Grass-forb"
+OR-Jargalant,Dulaani uul-Dulaani enger,ET 16-5
+OR-Jargalant,Dulaani uul-Dulaani enger,EN 16-6
+OR-Jargalant,Dulaani uul-Dulaani enger,ET 20-3
+OR-Jargalant,Dulaani uul-Dulaani enger,EN 20-1
+OR-Jargalant,Dulaani uul-Dulaani enger,EN 14-6
+OR-Jargalant,Dulaani uul-Dulaani enger,ET 14-8
+OR-Jargalant,Dulaani uul-Dulaani enger,ET 4-3
+OR-Jargalant,Dulaani uul-Dulaani enger,EN 4-3
+OR-Jargalant,Dulaani uul-Dulaani enger,ET 5-5
+OR-Jargalant,Dulaani uul-Dulaani enger,EN 5-6
+OR-Jargalant,Jargalant-Hoid bulag,ET 16-5
+OR-Jargalant,Jargalant-Hoid bulag,EN 16-6
+OR-Jargalant,Jargalant-Hoid bulag,ET 20-3
+OR-Jargalant,Jargalant-Hoid bulag,EN 20-1
+OR-Jargalant,Jargalant-Hoid bulag,EN 14-6
+OR-Jargalant,Jargalant-Hoid bulag,ET 14-8
+OR-Jargalant,Jargalant-Hoid bulag,ET 4-3
+OR-Jargalant,Jargalant-Hoid bulag,EN 4-3
+OR-Jargalant,Jargalant-Hoid bulag,ET 5-5
+OR-Jargalant,Jargalant-Hoid bulag,EN 5-6
+OR-Jargalant,Ulaan tolgoi-Tasgiin tolgoi,ET 16-5
+OR-Jargalant,Ulaan tolgoi-Tasgiin tolgoi,EN 16-6
+OR-Jargalant,Ulaan tolgoi-Tasgiin tolgoi,ET 20-3
+OR-Jargalant,Ulaan tolgoi-Tasgiin tolgoi,EN 20-1
+OR-Jargalant,Ulaan tolgoi-Tasgiin tolgoi,EN 14-6
+OR-Jargalant,Ulaan tolgoi-Tasgiin tolgoi,ET 14-8
+OR-Jargalant,Ulaan tolgoi-Tasgiin tolgoi,ET 4-3
+OR-Jargalant,Ulaan tolgoi-Tasgiin tolgoi,EN 4-3
+OR-Jargalant,Ulaan tolgoi-Tasgiin tolgoi,ET 5-5
+OR-Jargalant,Ulaan tolgoi-Tasgiin tolgoi,EN 5-6
+SE-Bayangol,Bayan-Bayangol,DT 5-3
+SE-Bayangol,Bayan-Bayangol,DN 5-1
+SE-Bayangol,Bayan-Bayangol,DT 11-6
+SE-Bayangol,Bayan-Bayangol,DN 11-3
+SE-Bayangol,Bayan-Bayangol,DT 10-1
+SE-Bayangol,Bayan-Bayangol,DN 10-1
+SE-Bayangol,Gonir-Tunhiin hundii,DT 5-3
+SE-Bayangol,Gonir-Tunhiin hundii,DN 5-1
+SE-Bayangol,Gonir-Tunhiin hundii,DT 11-6
+SE-Bayangol,Gonir-Tunhiin hundii,DN 11-3
+SE-Bayangol,Gonir-Tunhiin hundii,DT 10-1
+SE-Bayangol,Gonir-Tunhiin hundii,DN 10-1
+SE-Bayangol,Haraa-Bayantsogt,DT 5-3
+SE-Bayangol,Haraa-Bayantsogt,DN 5-1
+SE-Bayangol,Haraa-Bayantsogt,DT 11-6
+SE-Bayangol,Haraa-Bayantsogt,DN 11-3
+SE-Bayangol,Haraa-Bayantsogt,DT 10-1
+SE-Bayangol,Haraa-Bayantsogt,DN 10-1
+SE-Hushaat,Daagat-Mogoit,DT 6-6
+SE-Hushaat,Daagat-Mogoit,DN 6-6
+SE-Hushaat,Daagat-Mogoit,DT 18-6
+SE-Hushaat,Daagat-Mogoit,DN 18-6
+SE-Hushaat,Daagat-Mogoit,DN 15-6
+SE-Hushaat,Daagat-Mogoit,DT 15-6
+SE-Hushaat,Daagat-Mogoit,DT 7-5
+SE-Hushaat,Daagat-Mogoit,DN 7-2
+SE-Hushaat,Munhtolgoi-Bugat,DT 6-6
+SE-Hushaat,Munhtolgoi-Bugat,DN 6-6
+SE-Hushaat,Munhtolgoi-Bugat,DT 18-6
+SE-Hushaat,Munhtolgoi-Bugat,DN 18-6
+SE-Hushaat,Munhtolgoi-Bugat,DN 15-6
+SE-Hushaat,Munhtolgoi-Bugat,DT 15-6
+SE-Hushaat,Munhtolgoi-Bugat,DT 7-5
+SE-Hushaat,Munhtolgoi-Bugat,DN 7-2
+SE-Javhlant,Bumbat-Bumbat,DT 9-6
+SE-Javhlant,Bumbat-Bumbat,DN 9-4
+SE-Javhlant,Bumbat-Bumbat,DT 3-6
+SE-Javhlant,Bumbat-Bumbat,DN 3-2
+SE-Javhlant,Monostoi-Monostoi,DT 9-6
+SE-Javhlant,Monostoi-Monostoi,DN 9-4
+SE-Javhlant,Monostoi-Monostoi,DT 3-6
+SE-Javhlant,Monostoi-Monostoi,DN 3-2
+SE-Orhontuul,Bayantsogt-Holboo tolgoi,ET 3-3
+SE-Orhontuul,Bayantsogt-Holboo tolgoi,EN 3-4
+SE-Orhontuul,Hongor ovoo-Hongor ovoo,ET 3-3
+SE-Orhontuul,Hongor ovoo-Hongor ovoo,EN 3-4
+SE-Orhontuul,Shar us-Shar us,ET 3-3
+SE-Orhontuul,Shar us-Shar us,EN 3-4
+SE-Saihan,Gavshgai-Gavshgai,DT 1-3
+SE-Saihan,Gavshgai-Gavshgai,DN 1-6
+SE-Saihan,Hutul-Hutul,DT 1-3
+SE-Saihan,Hutul-Hutul,DN 1-6
+SE-Saihan,Nomgon-Nomgon,DT 1-3
+SE-Saihan,Nomgon-Nomgon,DN 1-6
+SE-Shaamar,Delgerhan-Delgerhan,DT 21-1
+SE-Shaamar,Delgerhan-Delgerhan,DN 21-5
+SE-Shaamar,Dulaanhan-Dulaanhan,DT 21-1
+SE-Shaamar,Dulaanhan-Dulaanhan,DN 21-5
+SE-Shaamar,Ohihundii-Ohihundii,DT 21-1
+SE-Shaamar,Ohihundii-Ohihundii,DN 21-5
+SE-Zuunburen,Belchir-Sumiin bulan,DT 17-2
+SE-Zuunburen,Belchir-Sumiin bulan,DN 17-2
+SE-Zuunburen,Belchir-Sumiin bulan,DT 19-5
+SE-Zuunburen,Belchir-Sumiin bulan,DN 19-6
+SE-Zuunburen,Jargalant-Jargalant,DT 17-2
+SE-Zuunburen,Jargalant-Jargalant,DN 17-2
+SE-Zuunburen,Jargalant-Jargalant,DT 19-5
+SE-Zuunburen,Jargalant-Jargalant,DN 19-6
+SE-Zuunburen,Mangirt-Oros davaa,DT 17-2
+SE-Zuunburen,Mangirt-Oros davaa,DN 17-2
+SE-Zuunburen,Mangirt-Oros davaa,DT 19-5
+SE-Zuunburen,Mangirt-Oros davaa,DN 19-6
+SU-Baruun-Urt,8-r bag-Tavan Honhor Hujir,BU_Zaraa
+SU-Baruun-Urt,8-r bag-Tavan Honhor Hujir,Tavah honhor hujirt
+SU-Baruun-Urt,8-r bag-Tavan Honhor Hujir,Tsagaan hudag
+SU-Baruun-Urt,8-r bag-Tsagaan Hudag,BU_Zaraa
+SU-Baruun-Urt,8-r bag-Tsagaan Hudag,Tavah honhor hujirt
+SU-Baruun-Urt,8-r bag-Tsagaan Hudag,Tsagaan hudag
+SU-Baruun-Urt,8-r bag-Ust-Dorvolj,BU_Zaraa
+SU-Baruun-Urt,8-r bag-Ust-Dorvolj,Tavah honhor hujirt
+SU-Baruun-Urt,8-r bag-Ust-Dorvolj,Tsagaan hudag
+SU-Baruun-Urt,8-r bag-Zaraa,BU_Zaraa
+SU-Baruun-Urt,8-r bag-Zaraa,Tavah honhor hujirt
+SU-Baruun-Urt,8-r bag-Zaraa,Tsagaan hudag
+SU-Dariganga,Amanus-Arigun,DG_Bayangol
+SU-Dariganga,Amanus-Arigun,Huduu
+SU-Dariganga,Amanus-Arigun,Muhar
+SU-Dariganga,Amanus-Arigun,Sumt
+SU-Dariganga,Amanus-Arigun,Uud
+SU-Dariganga,Badrah-Hodoo,DG_Bayangol
+SU-Dariganga,Badrah-Hodoo,Huduu
+SU-Dariganga,Badrah-Hodoo,Muhar
+SU-Dariganga,Badrah-Hodoo,Sumt
+SU-Dariganga,Badrah-Hodoo,Uud
+SU-Dariganga,Oronders-Bayangol,DG_Bayangol
+SU-Dariganga,Oronders-Bayangol,Huduu
+SU-Dariganga,Oronders-Bayangol,Muhar
+SU-Dariganga,Oronders-Bayangol,Sumt
+SU-Dariganga,Oronders-Bayangol,Uud
+SU-Dariganga,Uud-Muhar,DG_Bayangol
+SU-Dariganga,Uud-Muhar,Huduu
+SU-Dariganga,Uud-Muhar,Muhar
+SU-Dariganga,Uud-Muhar,Sumt
+SU-Dariganga,Uud-Muhar,Uud
+SU-Dariganga,Uud-Uud,DG_Bayangol
+SU-Dariganga,Uud-Uud,Huduu
+SU-Dariganga,Uud-Uud,Muhar
+SU-Dariganga,Uud-Uud,Sumt
+SU-Dariganga,Uud-Uud,Uud
+SU-Erdenetsagaan,Altanoboo-Shar oboo,Huist
+SU-Erdenetsagaan,Altanoboo-Shar oboo,Hundlun hailst
+SU-Erdenetsagaan,Altanoboo-Shar oboo,Jargalant
+SU-Erdenetsagaan,Altanoboo-Shar oboo,Tohoi
+SU-Erdenetsagaan,Altanoboo-Shar oboo,Zeeg
+SU-Erdenetsagaan,Altanoboo-Shar oboo,Zeeg reference
+SU-Erdenetsagaan,Badrah-Zeeg,Huist
+SU-Erdenetsagaan,Badrah-Zeeg,Hundlun hailst
+SU-Erdenetsagaan,Badrah-Zeeg,Jargalant
+SU-Erdenetsagaan,Badrah-Zeeg,Tohoi
+SU-Erdenetsagaan,Badrah-Zeeg,Zeeg
+SU-Erdenetsagaan,Badrah-Zeeg,Zeeg reference
+SU-Erdenetsagaan,Biluut-Hoh habtsal,Huist
+SU-Erdenetsagaan,Biluut-Hoh habtsal,Hundlun hailst
+SU-Erdenetsagaan,Biluut-Hoh habtsal,Jargalant
+SU-Erdenetsagaan,Biluut-Hoh habtsal,Tohoi
+SU-Erdenetsagaan,Biluut-Hoh habtsal,Zeeg
+SU-Erdenetsagaan,Biluut-Hoh habtsal,Zeeg reference
+SU-Erdenetsagaan,Hadgiinbulan-Huis,Huist
+SU-Erdenetsagaan,Hadgiinbulan-Huis,Hundlun hailst
+SU-Erdenetsagaan,Hadgiinbulan-Huis,Jargalant
+SU-Erdenetsagaan,Hadgiinbulan-Huis,Tohoi
+SU-Erdenetsagaan,Hadgiinbulan-Huis,Zeeg
+SU-Erdenetsagaan,Hadgiinbulan-Huis,Zeeg reference
+SU-Erdenetsagaan,Hongor-Tohoi,Huist
+SU-Erdenetsagaan,Hongor-Tohoi,Hundlun hailst
+SU-Erdenetsagaan,Hongor-Tohoi,Jargalant
+SU-Erdenetsagaan,Hongor-Tohoi,Tohoi
+SU-Erdenetsagaan,Hongor-Tohoi,Zeeg
+SU-Erdenetsagaan,Hongor-Tohoi,Zeeg reference
+SU-Erdenetsagaan,Jargalant-Jargalant,Huist
+SU-Erdenetsagaan,Jargalant-Jargalant,Hundlun hailst
+SU-Erdenetsagaan,Jargalant-Jargalant,Jargalant
+SU-Erdenetsagaan,Jargalant-Jargalant,Tohoi
+SU-Erdenetsagaan,Jargalant-Jargalant,Zeeg
+SU-Erdenetsagaan,Jargalant-Jargalant,Zeeg reference
+SU-Erdenetsagaan,Talbulag-Hondlon hails,Huist
+SU-Erdenetsagaan,Talbulag-Hondlon hails,Hundlun hailst
+SU-Erdenetsagaan,Talbulag-Hondlon hails,Jargalant
+SU-Erdenetsagaan,Talbulag-Hondlon hails,Tohoi
+SU-Erdenetsagaan,Talbulag-Hondlon hails,Zeeg
+SU-Erdenetsagaan,Talbulag-Hondlon hails,Zeeg reference
+SU-Erdenetsagaan,Tsagaan-Halzan had,Huist
+SU-Erdenetsagaan,Tsagaan-Halzan had,Hundlun hailst
+SU-Erdenetsagaan,Tsagaan-Halzan had,Jargalant
+SU-Erdenetsagaan,Tsagaan-Halzan had,Tohoi
+SU-Erdenetsagaan,Tsagaan-Halzan had,Zeeg
+SU-Erdenetsagaan,Tsagaan-Halzan had,Zeeg reference
+SU-Tumentsogt,Bayantsagaan-Shar dorbolj,Shar durvulj
+SU-Tumentsogt,Bayantsagaan-Shar dorbolj,Taliin shand
+SU-Tumentsogt,Bayantsagaan-Shar dorbolj,Yanzagtai nuur
+SU-Tumentsogt,Bayantsagaan-Ynzagatai nuur,Shar durvulj
+SU-Tumentsogt,Bayantsagaan-Ynzagatai nuur,Taliin shand
+SU-Tumentsogt,Bayantsagaan-Ynzagatai nuur,Yanzagtai nuur
+SU-Tumentsogt,Svbe-Taliin shand,Shar durvulj
+SU-Tumentsogt,Svbe-Taliin shand,Taliin shand
+SU-Tumentsogt,Svbe-Taliin shand,Yanzagtai nuur
+TU-Altanbulag,Altan-ovoo-Hustai,UT 20-6
+TU-Altanbulag,Altan-ovoo-Hustai,UN 20-3
+TU-Altanbulag,Altan-ovoo-Hustai,UT 1-3
+TU-Altanbulag,Altan-ovoo-Hustai,UN 1-6
+TU-Altanbulag,Argal-Ovoot,UT 20-6
+TU-Altanbulag,Argal-Ovoot,UN 20-3
+TU-Altanbulag,Argal-Ovoot,UT 1-3
+TU-Altanbulag,Argal-Ovoot,UN 1-6
+TU-Altanbulag,Sumt-Arhudag,UT 20-6
+TU-Altanbulag,Sumt-Arhudag,UN 20-3
+TU-Altanbulag,Sumt-Arhudag,UT 1-3
+TU-Altanbulag,Sumt-Arhudag,UN 1-6
+TU-Altanbulag,Zamt-Jargalant,UT 20-6
+TU-Altanbulag,Zamt-Jargalant,UN 20-3
+TU-Altanbulag,Zamt-Jargalant,UT 1-3
+TU-Altanbulag,Zamt-Jargalant,UN 1-6
+TU-Argalant,Argaliin uul-Hogiin tolgoi,Fencing
+TU-Argalant,Argaliin uul-Hogiin tolgoi,Hogiin tolgoi
+TU-Argalant,Argaliin uul-Hogiin tolgoi,Hustai
+TU-Argalant,Argaliin uul-Hogiin tolgoi,Totally degraded
+TU-Argalant,Argaliin uul-Hogiin tolgoi,UN 3-6
+TU-Argalant,Argaliin uul-Hogiin tolgoi,UT 3-2
+TU-Argalant,Hushuut-Moltsog els,Fencing
+TU-Argalant,Hushuut-Moltsog els,Hogiin tolgoi
+TU-Argalant,Hushuut-Moltsog els,Hustai
+TU-Argalant,Hushuut-Moltsog els,Totally degraded
+TU-Argalant,Hushuut-Moltsog els,UN 3-6
+TU-Argalant,Hushuut-Moltsog els,UT 3-2
+TU-Bayan,Tov-Yamaatiin gozgor,UN 15-1
+TU-Bayan,Tov-Yamaatiin gozgor,UN 17-3
+TU-Bayan,Tov-Yamaatiin gozgor,UT 15-2
+TU-Bayan,Tov-Yamaatiin gozgor,UT 17-1
+TU-Bayan,Tsant-Boomon ders,UN 15-1
+TU-Bayan,Tsant-Boomon ders,UN 17-3
+TU-Bayan,Tsant-Boomon ders,UT 15-2
+TU-Bayan,Tsant-Boomon ders,UT 17-1
+TU-Bayan,Uguumur-Tsaidam,UN 15-1
+TU-Bayan,Uguumur-Tsaidam,UN 17-3
+TU-Bayan,Uguumur-Tsaidam,UT 15-2
+TU-Bayan,Uguumur-Tsaidam,UT 17-1
+TU-Bayanchandmani,Chandmani-Boginii am,UT 10-1
+TU-Bayanchandmani,Chandmani-Boginii am,UN 10-1
+TU-Bayanchandmani,Chandmani-Boginii am,UT 9-1
+TU-Bayanchandmani,Chandmani-Boginii am,UN 9-1
+TU-Bayanchandmani,Chandmani-Boginii am,UT 4-3
+TU-Bayanchandmani,Chandmani-Boginii am,UN 4-2
+TU-Bayanchandmani,Erdene-Huviin hudag,UT 10-1
+TU-Bayanchandmani,Erdene-Huviin hudag,UN 10-1
+TU-Bayanchandmani,Erdene-Huviin hudag,UT 9-1
+TU-Bayanchandmani,Erdene-Huviin hudag,UN 9-1
+TU-Bayanchandmani,Erdene-Huviin hudag,UT 4-3
+TU-Bayanchandmani,Erdene-Huviin hudag,UN 4-2
+TU-Bayanchandmani,Zamt-Harganii am,UT 10-1
+TU-Bayanchandmani,Zamt-Harganii am,UN 10-1
+TU-Bayanchandmani,Zamt-Harganii am,UT 9-1
+TU-Bayanchandmani,Zamt-Harganii am,UN 9-1
+TU-Bayanchandmani,Zamt-Harganii am,UT 4-3
+TU-Bayanchandmani,Zamt-Harganii am,UN 4-2
+TU-Bayandelger,Baidlag-Shurguutiin am,UT 21-1
+TU-Bayandelger,Baidlag-Shurguutiin am,UN 21-1
+TU-Bayandelger,Baidlag-Shurguutiin am,UT 14-4
+TU-Bayandelger,Baidlag-Shurguutiin am,UN 14-3
+TU-Bayandelger,Galuut-Dutluur,UT 21-1
+TU-Bayandelger,Galuut-Dutluur,UN 21-1
+TU-Bayandelger,Galuut-Dutluur,UT 14-4
+TU-Bayandelger,Galuut-Dutluur,UN 14-3
+TU-Bayantsogt,Dargiat-Hadat tolgoi,UT 11-5
+TU-Bayantsogt,Dargiat-Hadat tolgoi,UN 11-6
+TU-Bayantsogt,Dargiat-Hadat tolgoi,UT 2-6
+TU-Bayantsogt,Dargiat-Hadat tolgoi,UN 2-6
+TU-Bayantsogt,Guna-Maihant,UT 11-5
+TU-Bayantsogt,Guna-Maihant,UN 11-6
+TU-Bayantsogt,Guna-Maihant,UT 2-6
+TU-Bayantsogt,Guna-Maihant,UN 2-6
+TU-Bayantsogt,Sarlag-Guna bor,UT 11-5
+TU-Bayantsogt,Sarlag-Guna bor,UN 11-6
+TU-Bayantsogt,Sarlag-Guna bor,UT 2-6
+TU-Bayantsogt,Sarlag-Guna bor,UN 2-6
+TU-Bayan-Unjuul,Baraat-Baraat,Baraat
+TU-Bayan-Unjuul,Baraat-Baraat,Halimag shand
+TU-Bayan-Unjuul,Baraat-Baraat,Har uzuur
+TU-Bayan-Unjuul,Baraat-Baraat,Hashaanii gadna
+TU-Bayan-Unjuul,Baraat-Baraat,Hoid unjuul
+TU-Bayan-Unjuul,Baraat-Baraat,Moltsog els
+TU-Bayan-Unjuul,Baraat-Baraat,Ulaan ovoo
+TU-Bayan-Unjuul,Burd-Halimagiin shand,Baraat
+TU-Bayan-Unjuul,Burd-Halimagiin shand,Halimag shand
+TU-Bayan-Unjuul,Burd-Halimagiin shand,Har uzuur
+TU-Bayan-Unjuul,Burd-Halimagiin shand,Hashaanii gadna
+TU-Bayan-Unjuul,Burd-Halimagiin shand,Hoid unjuul
+TU-Bayan-Unjuul,Burd-Halimagiin shand,Moltsog els
+TU-Bayan-Unjuul,Burd-Halimagiin shand,Ulaan ovoo
+TU-Bayan-Unjuul,Tseel-Hoid-Unjuul,Baraat
+TU-Bayan-Unjuul,Tseel-Hoid-Unjuul,Halimag shand
+TU-Bayan-Unjuul,Tseel-Hoid-Unjuul,Har uzuur
+TU-Bayan-Unjuul,Tseel-Hoid-Unjuul,Hashaanii gadna
+TU-Bayan-Unjuul,Tseel-Hoid-Unjuul,Hoid unjuul
+TU-Bayan-Unjuul,Tseel-Hoid-Unjuul,Moltsog els
+TU-Bayan-Unjuul,Tseel-Hoid-Unjuul,Ulaan ovoo
+TU-Bayan-Unjuul,Tseel-Ulaan ovoot,Baraat
+TU-Bayan-Unjuul,Tseel-Ulaan ovoot,Halimag shand
+TU-Bayan-Unjuul,Tseel-Ulaan ovoot,Har uzuur
+TU-Bayan-Unjuul,Tseel-Ulaan ovoot,Hashaanii gadna
+TU-Bayan-Unjuul,Tseel-Ulaan ovoot,Hoid unjuul
+TU-Bayan-Unjuul,Tseel-Ulaan ovoot,Moltsog els
+TU-Bayan-Unjuul,Tseel-Ulaan ovoot,Ulaan ovoo
+TU-Buren,Bayantsogt-Hanan,Asgat
+TU-Buren,Bayantsogt-Hanan,Bichigt
+TU-Buren,Bayantsogt-Hanan,Hajuu
+TU-Buren,Bayantsogt-Hanan,Hanan
+TU-Buren,Bayantsogt-Hanan,Hushuun bulan
+TU-Buren,Bayantsogt-Hanan,Muu hudag
+TU-Buren,Bayantsogt-Hanan,Teeg
+TU-Buren,Erdenehangai-Bichigt,Asgat
+TU-Buren,Erdenehangai-Bichigt,Bichigt
+TU-Buren,Erdenehangai-Bichigt,Hajuu
+TU-Buren,Erdenehangai-Bichigt,Hanan
+TU-Buren,Erdenehangai-Bichigt,Hushuun bulan
+TU-Buren,Erdenehangai-Bichigt,Muu hudag
+TU-Buren,Erdenehangai-Bichigt,Teeg
+TU-Buren,Mongol-Asgat,Asgat
+TU-Buren,Mongol-Asgat,Bichigt
+TU-Buren,Mongol-Asgat,Hajuu
+TU-Buren,Mongol-Asgat,Hanan
+TU-Buren,Mongol-Asgat,Hushuun bulan
+TU-Buren,Mongol-Asgat,Muu hudag
+TU-Buren,Mongol-Asgat,Teeg
+TU-Buren,Tuhum-Hushuun bulan,Asgat
+TU-Buren,Tuhum-Hushuun bulan,Bichigt
+TU-Buren,Tuhum-Hushuun bulan,Hajuu
+TU-Buren,Tuhum-Hushuun bulan,Hanan
+TU-Buren,Tuhum-Hushuun bulan,Hushuun bulan
+TU-Buren,Tuhum-Hushuun bulan,Muu hudag
+TU-Buren,Tuhum-Hushuun bulan,Teeg
+TU-Buren,Unjuul-Teeg,Asgat
+TU-Buren,Unjuul-Teeg,Bichigt
+TU-Buren,Unjuul-Teeg,Hajuu
+TU-Buren,Unjuul-Teeg,Hanan
+TU-Buren,Unjuul-Teeg,Hushuun bulan
+TU-Buren,Unjuul-Teeg,Muu hudag
+TU-Buren,Unjuul-Teeg,Teeg
+TU-Erdene,Bayantuul-Baruun bayan,UN 22-1
+TU-Erdene,Bayantuul-Baruun bayan,UT 22-1
+TU-Erdene,Bayantuul-Baruun bayan,UT 8-3
+TU-Erdene,Bayantuul-Baruun bayan,UN 8-2
+TU-Erdene,Chuluut-Zuun bayangiin eh,UN 22-1
+TU-Erdene,Chuluut-Zuun bayangiin eh,UT 22-1
+TU-Erdene,Chuluut-Zuun bayangiin eh,UT 8-3
+TU-Erdene,Chuluut-Zuun bayangiin eh,UN 8-2
+TU-Erdene,Hushinga-El,UN 22-1
+TU-Erdene,Hushinga-El,UT 22-1
+TU-Erdene,Hushinga-El,UT 8-3
+TU-Erdene,Hushinga-El,UN 8-2
+TU-Erdene,Tamgan-Hashaalaagui talbai,UN 22-1
+TU-Erdene,Tamgan-Hashaalaagui talbai,UT 22-1
+TU-Erdene,Tamgan-Hashaalaagui talbai,UT 8-3
+TU-Erdene,Tamgan-Hashaalaagui talbai,UN 8-2
+TU-Erdene,Uguumur-Ongotsot,UN 22-1
+TU-Erdene,Uguumur-Ongotsot,UT 22-1
+TU-Erdene,Uguumur-Ongotsot,UT 8-3
+TU-Erdene,Uguumur-Ongotsot,UN 8-2
+TU-Jargalant,Buural-Gahai,"Buural, Gahai"
+TU-Jargalant,Buural-Gahai,"Buural, Japan am"
+TU-Jargalant,Buural-Gahai,"Uguumur, Shine us"
+TU-Jargalant,Buural-Gahai,"Bayanbulag, Bayanbulag"
+TU-Jargalant,Talbulag-Talbulag,"Buural, Gahai"
+TU-Jargalant,Talbulag-Talbulag,"Buural, Japan am"
+TU-Jargalant,Talbulag-Talbulag,"Uguumur, Shine us"
+TU-Jargalant,Talbulag-Talbulag,"Bayanbulag, Bayanbulag"
+TU-Jargalant,Uguumur-Shine us,"Buural, Gahai"
+TU-Jargalant,Uguumur-Shine us,"Buural, Japan am"
+TU-Jargalant,Uguumur-Shine us,"Uguumur, Shine us"
+TU-Jargalant,Uguumur-Shine us,"Bayanbulag, Bayanbulag"
+TU-Jargalant,Zagdal-Nariin,"Buural, Gahai"
+TU-Jargalant,Zagdal-Nariin,"Buural, Japan am"
+TU-Jargalant,Zagdal-Nariin,"Uguumur, Shine us"
+TU-Jargalant,Zagdal-Nariin,"Bayanbulag, Bayanbulag"
+TU-Sergelen,Avdar-Eej hadnii baruun hoid,UN 12-1
+TU-Sergelen,Avdar-Eej hadnii baruun hoid,UN 16-6
+TU-Sergelen,Avdar-Eej hadnii baruun hoid,UN 7-5
+TU-Sergelen,Avdar-Eej hadnii baruun hoid,UT 12-4
+TU-Sergelen,Avdar-Eej hadnii baruun hoid,UT 16-3
+TU-Sergelen,Avdar-Eej hadnii baruun hoid,UT 7-2
+TU-Sergelen,Bayanburd-7-r zorlog,UN 12-1
+TU-Sergelen,Bayanburd-7-r zorlog,UN 16-6
+TU-Sergelen,Bayanburd-7-r zorlog,UN 7-5
+TU-Sergelen,Bayanburd-7-r zorlog,UT 12-4
+TU-Sergelen,Bayanburd-7-r zorlog,UT 16-3
+TU-Sergelen,Bayanburd-7-r zorlog,UT 7-2
+TU-Sergelen,Erdene uul-Anten,UN 12-1
+TU-Sergelen,Erdene uul-Anten,UN 16-6
+TU-Sergelen,Erdene uul-Anten,UN 7-5
+TU-Sergelen,Erdene uul-Anten,UT 12-4
+TU-Sergelen,Erdene uul-Anten,UT 16-3
+TU-Sergelen,Erdene uul-Anten,UT 7-2
+TU-Sergelen,Hushig-Ar hudgiin gozgor,UN 12-1
+TU-Sergelen,Hushig-Ar hudgiin gozgor,UN 16-6
+TU-Sergelen,Hushig-Ar hudgiin gozgor,UN 7-5
+TU-Sergelen,Hushig-Ar hudgiin gozgor,UT 12-4
+TU-Sergelen,Hushig-Ar hudgiin gozgor,UT 16-3
+TU-Sergelen,Hushig-Ar hudgiin gozgor,UT 7-2
+TU-Sergelen,Tsagaanhamar-Bayanchuluut,UN 12-1
+TU-Sergelen,Tsagaanhamar-Bayanchuluut,UN 16-6
+TU-Sergelen,Tsagaanhamar-Bayanchuluut,UN 7-5
+TU-Sergelen,Tsagaanhamar-Bayanchuluut,UT 12-4
+TU-Sergelen,Tsagaanhamar-Bayanchuluut,UT 16-3
+TU-Sergelen,Tsagaanhamar-Bayanchuluut,UT 7-2
+TU-Undurshireet,Bayantuul-Harganat,Ar hus
+TU-Undurshireet,Bayantuul-Harganat,Bor tolgoi
+TU-Undurshireet,Bayantuul-Harganat,Hairhan
+TU-Undurshireet,Bayantuul-Harganat,Hairhanii ar uvuljuu
+TU-Undurshireet,Bayantuul-Harganat,Harganatiin hooloi
+TU-Undurshireet,Bayantuul-Harganat,Muurs
+TU-Undurshireet,Hairhan-Hairhan,Ar hus
+TU-Undurshireet,Hairhan-Hairhan,Bor tolgoi
+TU-Undurshireet,Hairhan-Hairhan,Hairhan
+TU-Undurshireet,Hairhan-Hairhan,Hairhanii ar uvuljuu
+TU-Undurshireet,Hairhan-Hairhan,Harganatiin hooloi
+TU-Undurshireet,Hairhan-Hairhan,Muurs
+TU-Undurshireet,Sant-Bor tolgoi,Ar hus
+TU-Undurshireet,Sant-Bor tolgoi,Bor tolgoi
+TU-Undurshireet,Sant-Bor tolgoi,Hairhan
+TU-Undurshireet,Sant-Bor tolgoi,Hairhanii ar uvuljuu
+TU-Undurshireet,Sant-Bor tolgoi,Harganatiin hooloi
+TU-Undurshireet,Sant-Bor tolgoi,Muurs
+TU-Undurshireet,Uyanga-Ar hus,Ar hus
+TU-Undurshireet,Uyanga-Ar hus,Bor tolgoi
+TU-Undurshireet,Uyanga-Ar hus,Hairhan
+TU-Undurshireet,Uyanga-Ar hus,Hairhanii ar uvuljuu
+TU-Undurshireet,Uyanga-Ar hus,Harganatiin hooloi
+TU-Undurshireet,Uyanga-Ar hus,Muurs
+UH-Harhorin,Erdene tolgoi-H.gui talbai,"Nariin hur, Bayangol"
+UH-Harhorin,Erdene tolgoi-H.gui talbai,"Nariin hur, Namag"
+UH-Harhorin,Erdene tolgoi-H.gui talbai,"Ongotson uhaa, Hudag elstei"
+UH-Harhorin,Erdene tolgoi-H.gui talbai,"Jalbaa, Buderiin davaa"
+UH-Harhorin,Erdene tolgoi-H.gui talbai,"Orhon, Baga elstei"
+UH-Harhorin,Erdene tolgoi-H.gui talbai,"Shanh, Ar hudag"
+UH-Harhorin,Erdene tolgoi-H.gui talbai,"Shanh, Tavan tsohio"
+UH-Harhorin,Erdene tolgoi-H.gui talbai,"Ongotson uhaa, Azar tolgoi"
+UH-Harhorin,Jalbaa-Budir,"Nariin hur, Bayangol"
+UH-Harhorin,Jalbaa-Budir,"Nariin hur, Namag"
+UH-Harhorin,Jalbaa-Budir,"Ongotson uhaa, Hudag elstei"
+UH-Harhorin,Jalbaa-Budir,"Jalbaa, Buderiin davaa"
+UH-Harhorin,Jalbaa-Budir,"Orhon, Baga elstei"
+UH-Harhorin,Jalbaa-Budir,"Shanh, Ar hudag"
+UH-Harhorin,Jalbaa-Budir,"Shanh, Tavan tsohio"
+UH-Harhorin,Jalbaa-Budir,"Ongotson uhaa, Azar tolgoi"
+UH-Harhorin,Nariin hur-Bayangol,"Nariin hur, Bayangol"
+UH-Harhorin,Nariin hur-Bayangol,"Nariin hur, Namag"
+UH-Harhorin,Nariin hur-Bayangol,"Ongotson uhaa, Hudag elstei"
+UH-Harhorin,Nariin hur-Bayangol,"Jalbaa, Buderiin davaa"
+UH-Harhorin,Nariin hur-Bayangol,"Orhon, Baga elstei"
+UH-Harhorin,Nariin hur-Bayangol,"Shanh, Ar hudag"
+UH-Harhorin,Nariin hur-Bayangol,"Shanh, Tavan tsohio"
+UH-Harhorin,Nariin hur-Bayangol,"Ongotson uhaa, Azar tolgoi"
+UH-Harhorin,Nariin hur-Namag,"Nariin hur, Bayangol"
+UH-Harhorin,Nariin hur-Namag,"Nariin hur, Namag"
+UH-Harhorin,Nariin hur-Namag,"Ongotson uhaa, Hudag elstei"
+UH-Harhorin,Nariin hur-Namag,"Jalbaa, Buderiin davaa"
+UH-Harhorin,Nariin hur-Namag,"Orhon, Baga elstei"
+UH-Harhorin,Nariin hur-Namag,"Shanh, Ar hudag"
+UH-Harhorin,Nariin hur-Namag,"Shanh, Tavan tsohio"
+UH-Harhorin,Nariin hur-Namag,"Ongotson uhaa, Azar tolgoi"
+UH-Harhorin,Ongotson uhaa-Azar tolgoi,"Nariin hur, Bayangol"
+UH-Harhorin,Ongotson uhaa-Azar tolgoi,"Nariin hur, Namag"
+UH-Harhorin,Ongotson uhaa-Azar tolgoi,"Ongotson uhaa, Hudag elstei"
+UH-Harhorin,Ongotson uhaa-Azar tolgoi,"Jalbaa, Buderiin davaa"
+UH-Harhorin,Ongotson uhaa-Azar tolgoi,"Orhon, Baga elstei"
+UH-Harhorin,Ongotson uhaa-Azar tolgoi,"Shanh, Ar hudag"
+UH-Harhorin,Ongotson uhaa-Azar tolgoi,"Shanh, Tavan tsohio"
+UH-Harhorin,Ongotson uhaa-Azar tolgoi,"Ongotson uhaa, Azar tolgoi"
+UH-Harhorin,Ongotson uhaa-Hudag elstii,"Nariin hur, Bayangol"
+UH-Harhorin,Ongotson uhaa-Hudag elstii,"Nariin hur, Namag"
+UH-Harhorin,Ongotson uhaa-Hudag elstii,"Ongotson uhaa, Hudag elstei"
+UH-Harhorin,Ongotson uhaa-Hudag elstii,"Jalbaa, Buderiin davaa"
+UH-Harhorin,Ongotson uhaa-Hudag elstii,"Orhon, Baga elstei"
+UH-Harhorin,Ongotson uhaa-Hudag elstii,"Shanh, Ar hudag"
+UH-Harhorin,Ongotson uhaa-Hudag elstii,"Shanh, Tavan tsohio"
+UH-Harhorin,Ongotson uhaa-Hudag elstii,"Ongotson uhaa, Azar tolgoi"
+UH-Harhorin,Orhon-Baga elstii,"Nariin hur, Bayangol"
+UH-Harhorin,Orhon-Baga elstii,"Nariin hur, Namag"
+UH-Harhorin,Orhon-Baga elstii,"Ongotson uhaa, Hudag elstei"
+UH-Harhorin,Orhon-Baga elstii,"Jalbaa, Buderiin davaa"
+UH-Harhorin,Orhon-Baga elstii,"Orhon, Baga elstei"
+UH-Harhorin,Orhon-Baga elstii,"Shanh, Ar hudag"
+UH-Harhorin,Orhon-Baga elstii,"Shanh, Tavan tsohio"
+UH-Harhorin,Orhon-Baga elstii,"Ongotson uhaa, Azar tolgoi"
+UH-Harhorin,Orhon-Ih nariin,"Nariin hur, Bayangol"
+UH-Harhorin,Orhon-Ih nariin,"Nariin hur, Namag"
+UH-Harhorin,Orhon-Ih nariin,"Ongotson uhaa, Hudag elstei"
+UH-Harhorin,Orhon-Ih nariin,"Jalbaa, Buderiin davaa"
+UH-Harhorin,Orhon-Ih nariin,"Orhon, Baga elstei"
+UH-Harhorin,Orhon-Ih nariin,"Shanh, Ar hudag"
+UH-Harhorin,Orhon-Ih nariin,"Shanh, Tavan tsohio"
+UH-Harhorin,Orhon-Ih nariin,"Ongotson uhaa, Azar tolgoi"
+UH-Harhorin,Shanh-Tavan tsohiot,"Nariin hur, Bayangol"
+UH-Harhorin,Shanh-Tavan tsohiot,"Nariin hur, Namag"
+UH-Harhorin,Shanh-Tavan tsohiot,"Ongotson uhaa, Hudag elstei"
+UH-Harhorin,Shanh-Tavan tsohiot,"Jalbaa, Buderiin davaa"
+UH-Harhorin,Shanh-Tavan tsohiot,"Orhon, Baga elstei"
+UH-Harhorin,Shanh-Tavan tsohiot,"Shanh, Ar hudag"
+UH-Harhorin,Shanh-Tavan tsohiot,"Shanh, Tavan tsohio"
+UH-Harhorin,Shanh-Tavan tsohiot,"Ongotson uhaa, Azar tolgoi"
+UH-Sant,Maihan-Bor hoshuu,Bor hoshuu
+UH-Sant,Maihan-Bor hoshuu,Nuruu
+UH-Sant,Maihan-Bor hoshuu,Shand
+UH-Sant,Maihan-Bor hoshuu,Shuuduu
+UH-Sant,Maihan-Bor hoshuu,Zaraa
+UH-Sant,Tsagrig-Bumbat,Bor hoshuu
+UH-Sant,Tsagrig-Bumbat,Nuruu
+UH-Sant,Tsagrig-Bumbat,Shand
+UH-Sant,Tsagrig-Bumbat,Shuuduu
+UH-Sant,Tsagrig-Bumbat,Zaraa
+UH-Sant,Tsahiurt-Shuuduu,Bor hoshuu
+UH-Sant,Tsahiurt-Shuuduu,Nuruu
+UH-Sant,Tsahiurt-Shuuduu,Shand
+UH-Sant,Tsahiurt-Shuuduu,Shuuduu
+UH-Sant,Tsahiurt-Shuuduu,Zaraa
+UH-Sant,Ulaan ovoo-Shand,Bor hoshuu
+UH-Sant,Ulaan ovoo-Shand,Nuruu
+UH-Sant,Ulaan ovoo-Shand,Shand
+UH-Sant,Ulaan ovoo-Shand,Shuuduu
+UH-Sant,Ulaan ovoo-Shand,Zaraa
+UH-Sant,Zalaa-Zaraa,Bor hoshuu
+UH-Sant,Zalaa-Zaraa,Nuruu
+UH-Sant,Zalaa-Zaraa,Shand
+UH-Sant,Zalaa-Zaraa,Shuuduu
+UH-Sant,Zalaa-Zaraa,Zaraa
+UV-Ulaangom,2-r bag-Holiin privad,Heer morit
+UV-Ulaangom,2-r bag-Holiin privad,Nanophyton
+UV-Ulaangom,2-r bag-Holiin privad,Nuur
+UV-Ulaangom,3-r bag-Adargana,Heer morit
+UV-Ulaangom,3-r bag-Adargana,Nanophyton
+UV-Ulaangom,3-r bag-Adargana,Nuur
+UV-Ulaangom,5-r bag-Arsai,Heer morit
+UV-Ulaangom,5-r bag-Arsai,Nanophyton
+UV-Ulaangom,5-r bag-Arsai,Nuur
+UV-Ulaangom,7-r bag-Bag byraa,Heer morit
+UV-Ulaangom,7-r bag-Bag byraa,Nanophyton
+UV-Ulaangom,7-r bag-Bag byraa,Nuur
+UV-Ulaangom,8-r bag-Heer morit,Heer morit
+UV-Ulaangom,8-r bag-Heer morit,Nanophyton
+UV-Ulaangom,8-r bag-Heer morit,Nuur
+ZA-Bayantes,Bujir-Bujiriin uvur,"Bujir, Bujiriin uvur"
+ZA-Bayantes,Bujir-Bujiriin uvur,"Bujir, Hanhinah"
+ZA-Bayantes,Bujir-Bujiriin uvur,"Zaigal, Ulaan ereg"
+ZA-Bayantes,Bujir-Bujiriin uvur,"Hachig, Tsergiin gol"
+ZA-Bayantes,Bujir-Bujiriin uvur,"Javhlan, Tsagaan olom"
+ZA-Bayantes,Bujir-Hanginah,"Bujir, Bujiriin uvur"
+ZA-Bayantes,Bujir-Hanginah,"Bujir, Hanhinah"
+ZA-Bayantes,Bujir-Hanginah,"Zaigal, Ulaan ereg"
+ZA-Bayantes,Bujir-Hanginah,"Hachig, Tsergiin gol"
+ZA-Bayantes,Bujir-Hanginah,"Javhlan, Tsagaan olom"
+ZA-Bayantes,Hachig-Tsergiin gol,"Bujir, Bujiriin uvur"
+ZA-Bayantes,Hachig-Tsergiin gol,"Bujir, Hanhinah"
+ZA-Bayantes,Hachig-Tsergiin gol,"Zaigal, Ulaan ereg"
+ZA-Bayantes,Hachig-Tsergiin gol,"Hachig, Tsergiin gol"
+ZA-Bayantes,Hachig-Tsergiin gol,"Javhlan, Tsagaan olom"
+ZA-Bayantes,Javhlan-Tsagaan olom,"Bujir, Bujiriin uvur"
+ZA-Bayantes,Javhlan-Tsagaan olom,"Bujir, Hanhinah"
+ZA-Bayantes,Javhlan-Tsagaan olom,"Zaigal, Ulaan ereg"
+ZA-Bayantes,Javhlan-Tsagaan olom,"Hachig, Tsergiin gol"
+ZA-Bayantes,Javhlan-Tsagaan olom,"Javhlan, Tsagaan olom"
+ZA-Bayantes,Zaigal-Ulaan ereg,"Bujir, Bujiriin uvur"
+ZA-Bayantes,Zaigal-Ulaan ereg,"Bujir, Hanhinah"
+ZA-Bayantes,Zaigal-Ulaan ereg,"Zaigal, Ulaan ereg"
+ZA-Bayantes,Zaigal-Ulaan ereg,"Hachig, Tsergiin gol"
+ZA-Bayantes,Zaigal-Ulaan ereg,"Javhlan, Tsagaan olom"
+ZA-Numrug,Bayanzurh-Chirenget,"Nuur, Huzuuvch"
+ZA-Numrug,Bayanzurh-Chirenget,"Darhan uul, Bayan-Uhaa"
+ZA-Numrug,Bayanzurh-Chirenget,"Bayanzurh, Uvur"
+ZA-Numrug,Bayanzurh-Chirenget,"Ih hairhan,"
+ZA-Numrug,Bayanzurh-Chirenget,"Ih hairhan, Chavgants"
+ZA-Numrug,Bayanzurh-Chirenget,Bayanzurh
+ZA-Numrug,Bayanzurh-Chirenget,"Hudrug, Uvur shivertei"
+ZA-Numrug,Darhan uul-Bayan uhaa,"Nuur, Huzuuvch"
+ZA-Numrug,Darhan uul-Bayan uhaa,"Darhan uul, Bayan-Uhaa"
+ZA-Numrug,Darhan uul-Bayan uhaa,"Bayanzurh, Uvur"
+ZA-Numrug,Darhan uul-Bayan uhaa,"Ih hairhan,"
+ZA-Numrug,Darhan uul-Bayan uhaa,"Ih hairhan, Chavgants"
+ZA-Numrug,Darhan uul-Bayan uhaa,Bayanzurh
+ZA-Numrug,Darhan uul-Bayan uhaa,"Hudrug, Uvur shivertei"
+ZA-Numrug,Hairhan-Ar guu,"Nuur, Huzuuvch"
+ZA-Numrug,Hairhan-Ar guu,"Darhan uul, Bayan-Uhaa"
+ZA-Numrug,Hairhan-Ar guu,"Bayanzurh, Uvur"
+ZA-Numrug,Hairhan-Ar guu,"Ih hairhan,"
+ZA-Numrug,Hairhan-Ar guu,"Ih hairhan, Chavgants"
+ZA-Numrug,Hairhan-Ar guu,Bayanzurh
+ZA-Numrug,Hairhan-Ar guu,"Hudrug, Uvur shivertei"
+ZA-Numrug,Hudrug-Uvur shivertei,"Nuur, Huzuuvch"
+ZA-Numrug,Hudrug-Uvur shivertei,"Darhan uul, Bayan-Uhaa"
+ZA-Numrug,Hudrug-Uvur shivertei,"Bayanzurh, Uvur"
+ZA-Numrug,Hudrug-Uvur shivertei,"Ih hairhan,"
+ZA-Numrug,Hudrug-Uvur shivertei,"Ih hairhan, Chavgants"
+ZA-Numrug,Hudrug-Uvur shivertei,Bayanzurh
+ZA-Numrug,Hudrug-Uvur shivertei,"Hudrug, Uvur shivertei"
+ZA-Numrug,Nuur-Huzuuvch,"Nuur, Huzuuvch"
+ZA-Numrug,Nuur-Huzuuvch,"Darhan uul, Bayan-Uhaa"
+ZA-Numrug,Nuur-Huzuuvch,"Bayanzurh, Uvur"
+ZA-Numrug,Nuur-Huzuuvch,"Ih hairhan,"
+ZA-Numrug,Nuur-Huzuuvch,"Ih hairhan, Chavgants"
+ZA-Numrug,Nuur-Huzuuvch,Bayanzurh
+ZA-Numrug,Nuur-Huzuuvch,"Hudrug, Uvur shivertei"
+ZA-Otgon,Badral-Tsoroidog,"Badral, Narangiin am"
+ZA-Otgon,Badral-Tsoroidog,"Buyant, Haltariin am"
+ZA-Otgon,Badral-Tsoroidog,"Badral, Baga nariinii am"
+ZA-Otgon,Badral-Tsoroidog,"Onts, Chihertiin am"
+ZA-Otgon,Badral-Tsoroidog,"Hujirt, Getsiin ar"
+ZA-Otgon,Badral-Tsoroidog,"Bayanbulag, Derst bulan"
+ZA-Otgon,Badral-Tsoroidog,"Soyol, Baga bumbat"
+ZA-Otgon,Badral-Tsoroidog,Getsiin ar
+ZA-Otgon,Bayanbulag-Asgat,"Badral, Narangiin am"
+ZA-Otgon,Bayanbulag-Asgat,"Buyant, Haltariin am"
+ZA-Otgon,Bayanbulag-Asgat,"Badral, Baga nariinii am"
+ZA-Otgon,Bayanbulag-Asgat,"Onts, Chihertiin am"
+ZA-Otgon,Bayanbulag-Asgat,"Hujirt, Getsiin ar"
+ZA-Otgon,Bayanbulag-Asgat,"Bayanbulag, Derst bulan"
+ZA-Otgon,Bayanbulag-Asgat,"Soyol, Baga bumbat"
+ZA-Otgon,Bayanbulag-Asgat,Getsiin ar
+ZA-Otgon,Buyant-Namiin am,"Badral, Narangiin am"
+ZA-Otgon,Buyant-Namiin am,"Buyant, Haltariin am"
+ZA-Otgon,Buyant-Namiin am,"Badral, Baga nariinii am"
+ZA-Otgon,Buyant-Namiin am,"Onts, Chihertiin am"
+ZA-Otgon,Buyant-Namiin am,"Hujirt, Getsiin ar"
+ZA-Otgon,Buyant-Namiin am,"Bayanbulag, Derst bulan"
+ZA-Otgon,Buyant-Namiin am,"Soyol, Baga bumbat"
+ZA-Otgon,Buyant-Namiin am,Getsiin ar
+ZA-Otgon,Hujirt-Ovoot tolgoi,"Badral, Narangiin am"
+ZA-Otgon,Hujirt-Ovoot tolgoi,"Buyant, Haltariin am"
+ZA-Otgon,Hujirt-Ovoot tolgoi,"Badral, Baga nariinii am"
+ZA-Otgon,Hujirt-Ovoot tolgoi,"Onts, Chihertiin am"
+ZA-Otgon,Hujirt-Ovoot tolgoi,"Hujirt, Getsiin ar"
+ZA-Otgon,Hujirt-Ovoot tolgoi,"Bayanbulag, Derst bulan"
+ZA-Otgon,Hujirt-Ovoot tolgoi,"Soyol, Baga bumbat"
+ZA-Otgon,Hujirt-Ovoot tolgoi,Getsiin ar
+ZA-Otgon,Onts-Toson hant,"Badral, Narangiin am"
+ZA-Otgon,Onts-Toson hant,"Buyant, Haltariin am"
+ZA-Otgon,Onts-Toson hant,"Badral, Baga nariinii am"
+ZA-Otgon,Onts-Toson hant,"Onts, Chihertiin am"
+ZA-Otgon,Onts-Toson hant,"Hujirt, Getsiin ar"
+ZA-Otgon,Onts-Toson hant,"Bayanbulag, Derst bulan"
+ZA-Otgon,Onts-Toson hant,"Soyol, Baga bumbat"
+ZA-Otgon,Onts-Toson hant,Getsiin ar
+ZA-Otgon,Soyol-Bumbatiin orgiu,"Badral, Narangiin am"
+ZA-Otgon,Soyol-Bumbatiin orgiu,"Buyant, Haltariin am"
+ZA-Otgon,Soyol-Bumbatiin orgiu,"Badral, Baga nariinii am"
+ZA-Otgon,Soyol-Bumbatiin orgiu,"Onts, Chihertiin am"
+ZA-Otgon,Soyol-Bumbatiin orgiu,"Hujirt, Getsiin ar"
+ZA-Otgon,Soyol-Bumbatiin orgiu,"Bayanbulag, Derst bulan"
+ZA-Otgon,Soyol-Bumbatiin orgiu,"Soyol, Baga bumbat"
+ZA-Otgon,Soyol-Bumbatiin orgiu,Getsiin ar
+ZA-Telmen,Bayan airag-Manz,"Bayantegsh, Huh chuluu-ass"
+ZA-Telmen,Bayan airag-Manz,"Uguumur, Uguumuriin hundii-10"
+ZA-Telmen,Bayan airag-Manz,"Shurgah, Hurel"
+ZA-Telmen,Bayan airag-Manz,"Bayan airag, Tal boldog"
+ZA-Telmen,Bayan airag-Manz,"Shurgah, Salhitiin uvuljuu_ass"
+ZA-Telmen,Bayan airag-Manz,"Bayantegsh, Degraded"
+ZA-Telmen,Bayan airag-Manz,"Bayantegsh, Huhchuluut"
+ZA-Telmen,Bayan airag-Manz,"Bayan-Airag, Manz"
+ZA-Telmen,Bayan airag-Manz,"Shurgah, Salhitiin uvuljuu"
+ZA-Telmen,Bayan airag-Manz,"Nuur, Huviin hundii"
+ZA-Telmen,Bayan airag-Manz,"Uguumur, Uguumur-09"
+ZA-Telmen,Bayantegsh-Huh chuluu,"Bayantegsh, Huh chuluu-ass"
+ZA-Telmen,Bayantegsh-Huh chuluu,"Uguumur, Uguumuriin hundii-10"
+ZA-Telmen,Bayantegsh-Huh chuluu,"Shurgah, Hurel"
+ZA-Telmen,Bayantegsh-Huh chuluu,"Bayan airag, Tal boldog"
+ZA-Telmen,Bayantegsh-Huh chuluu,"Shurgah, Salhitiin uvuljuu_ass"
+ZA-Telmen,Bayantegsh-Huh chuluu,"Bayantegsh, Degraded"
+ZA-Telmen,Bayantegsh-Huh chuluu,"Bayantegsh, Huhchuluut"
+ZA-Telmen,Bayantegsh-Huh chuluu,"Bayan-Airag, Manz"
+ZA-Telmen,Bayantegsh-Huh chuluu,"Shurgah, Salhitiin uvuljuu"
+ZA-Telmen,Bayantegsh-Huh chuluu,"Nuur, Huviin hundii"
+ZA-Telmen,Bayantegsh-Huh chuluu,"Uguumur, Uguumur-09"
+ZA-Telmen,Nuur-Huviin hundii,"Bayantegsh, Huh chuluu-ass"
+ZA-Telmen,Nuur-Huviin hundii,"Uguumur, Uguumuriin hundii-10"
+ZA-Telmen,Nuur-Huviin hundii,"Shurgah, Hurel"
+ZA-Telmen,Nuur-Huviin hundii,"Bayan airag, Tal boldog"
+ZA-Telmen,Nuur-Huviin hundii,"Shurgah, Salhitiin uvuljuu_ass"
+ZA-Telmen,Nuur-Huviin hundii,"Bayantegsh, Degraded"
+ZA-Telmen,Nuur-Huviin hundii,"Bayantegsh, Huhchuluut"
+ZA-Telmen,Nuur-Huviin hundii,"Bayan-Airag, Manz"
+ZA-Telmen,Nuur-Huviin hundii,"Shurgah, Salhitiin uvuljuu"
+ZA-Telmen,Nuur-Huviin hundii,"Nuur, Huviin hundii"
+ZA-Telmen,Nuur-Huviin hundii,"Uguumur, Uguumur-09"
+ZA-Telmen,Shurgah-Salhit uvuljuu,"Bayantegsh, Huh chuluu-ass"
+ZA-Telmen,Shurgah-Salhit uvuljuu,"Uguumur, Uguumuriin hundii-10"
+ZA-Telmen,Shurgah-Salhit uvuljuu,"Shurgah, Hurel"
+ZA-Telmen,Shurgah-Salhit uvuljuu,"Bayan airag, Tal boldog"
+ZA-Telmen,Shurgah-Salhit uvuljuu,"Shurgah, Salhitiin uvuljuu_ass"
+ZA-Telmen,Shurgah-Salhit uvuljuu,"Bayantegsh, Degraded"
+ZA-Telmen,Shurgah-Salhit uvuljuu,"Bayantegsh, Huhchuluut"
+ZA-Telmen,Shurgah-Salhit uvuljuu,"Bayan-Airag, Manz"
+ZA-Telmen,Shurgah-Salhit uvuljuu,"Shurgah, Salhitiin uvuljuu"
+ZA-Telmen,Shurgah-Salhit uvuljuu,"Nuur, Huviin hundii"
+ZA-Telmen,Shurgah-Salhit uvuljuu,"Uguumur, Uguumur-09"
+ZA-Telmen,Uguumur-Uguumriin hundii,"Bayantegsh, Huh chuluu-ass"
+ZA-Telmen,Uguumur-Uguumriin hundii,"Uguumur, Uguumuriin hundii-10"
+ZA-Telmen,Uguumur-Uguumriin hundii,"Shurgah, Hurel"
+ZA-Telmen,Uguumur-Uguumriin hundii,"Bayan airag, Tal boldog"
+ZA-Telmen,Uguumur-Uguumriin hundii,"Shurgah, Salhitiin uvuljuu_ass"
+ZA-Telmen,Uguumur-Uguumriin hundii,"Bayantegsh, Degraded"
+ZA-Telmen,Uguumur-Uguumriin hundii,"Bayantegsh, Huhchuluut"
+ZA-Telmen,Uguumur-Uguumriin hundii,"Bayan-Airag, Manz"
+ZA-Telmen,Uguumur-Uguumriin hundii,"Shurgah, Salhitiin uvuljuu"
+ZA-Telmen,Uguumur-Uguumriin hundii,"Nuur, Huviin hundii"
+ZA-Telmen,Uguumur-Uguumriin hundii,"Uguumur, Uguumur-09"
+ZA-Telmen,Uvugdii-Har-Uul,"Bayantegsh, Huh chuluu-ass"
+ZA-Telmen,Uvugdii-Har-Uul,"Uguumur, Uguumuriin hundii-10"
+ZA-Telmen,Uvugdii-Har-Uul,"Shurgah, Hurel"
+ZA-Telmen,Uvugdii-Har-Uul,"Bayan airag, Tal boldog"
+ZA-Telmen,Uvugdii-Har-Uul,"Shurgah, Salhitiin uvuljuu_ass"
+ZA-Telmen,Uvugdii-Har-Uul,"Bayantegsh, Degraded"
+ZA-Telmen,Uvugdii-Har-Uul,"Bayantegsh, Huhchuluut"
+ZA-Telmen,Uvugdii-Har-Uul,"Bayan-Airag, Manz"
+ZA-Telmen,Uvugdii-Har-Uul,"Shurgah, Salhitiin uvuljuu"
+ZA-Telmen,Uvugdii-Har-Uul,"Nuur, Huviin hundii"
+ZA-Telmen,Uvugdii-Har-Uul,"Uguumur, Uguumur-09"
+ZA-Tosontsengel,Bayan-Ulaan-Shivertii,Ider gol
+ZA-Tosontsengel,Hairhan-Salan,Ider gol
+ZA-Tosontsengel,Ider-Burgast,Ider gol
+ZA-Tosontsengel,Orgih-Deed hargana,Ider gol
+ZA-Tosontsengel,Rashaant-Agit,Ider gol
+ZA-Tosontsengel,Ulaantolgoi-Teel,Ider gol
+ZA-Tsagaanhairhan,Agit-Ih yan,Stipa
+ZA-Tsagaanhairhan,Baynbulag-Har hujir,Stipa
+ZA-Tsagaanhairhan,Onts-Gurvan tsuvraa,Stipa
+ZA-Tsagaanhairhan,Tsetserleg-Gurvan utug,Stipa
